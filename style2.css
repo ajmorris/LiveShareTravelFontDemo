@@ -1,0 +1,15 @@
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Tenor Sans', sans-serif;
+    color: #00b4eb;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+
+}
+
+.entry-content {
+    width: 680px;
+}
