@@ -1,11 +1,26 @@
-h1, h2, h3, h4, h5, h6 {
+h1, h4, h5, h6 {
     font-family: 'Abril Fatface', cursive;
-    color: #00b4eb;
+    color: #1d1d1d;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 28px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+body, h2, h3 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
 }
 
 body {
-    font-family: 'Open Sans', sans-serif;
-    font-weight: 300;
     font-size: 16px;
     margin-left: 4em;
 }
